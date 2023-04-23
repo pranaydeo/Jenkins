@@ -1,0 +1,1 @@
+ 1. Install the necessary software on the machines using a configuration management tool. 
