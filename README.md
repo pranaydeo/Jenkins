@@ -1,2 +1,2 @@
  1. Install the necessary software on the machines using a configuration management tool. 
-Git Workflow has to be implemented 
+ 2. Git Workflow has to be implemented 
